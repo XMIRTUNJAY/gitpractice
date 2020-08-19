@@ -1,0 +1,3 @@
+new file to check git working
+
+this is my fourth file I have no working knowledge
