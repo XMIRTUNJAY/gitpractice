@@ -1,0 +1,11 @@
+Author:Mirtunjay Kumar
+Sub: GIT
+
+Purpose:This is for checking difference
+
+
+
+hello this is my first class of GIT
+I am Mirtunjay KUmar 
+funnny thing is I am very not busy
+I am adding a new line
